@@ -10,6 +10,11 @@
 </div>
 
 ## 🚀 Requirements
+Before you begin, ensure you have the following:
+*Python 3.10*
+*Anaconda* (for environment management)
+*IBM Cloud Account* (for Watson API access)
+  requirements.txt :
    - load_dotenv==0.1.0
    - ibm_watson_machine_learning==1.0.345
    - ibm-cloud-sdk-core==3.16.7
