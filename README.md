@@ -1,4 +1,6 @@
 <h1 align="center">Integrate LLMs with applications</h1>
+<p align="center"> Welcome to the "Integrate LLMs with applications" repository!</p>
+
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/Anaconda-3670A0?style=for-the-badge&logo=anaconda&logoColor=white">
