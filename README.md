@@ -27,12 +27,15 @@ Prompt:
     From the following customer complaint, extract 3 factors that caused the customer to be unhappy. 
     Put each factor on a new line. 
 
-    Customer complaint:
+Customer complaint:
             I just tried to book a flight on your incredibly slow website.  All 
             the times and prices were confusing.  I liked being able to compare 
             the amenities in economy with business class side by side.  But I 
             never got to reserve a seat because I didn't understand the seat map.  
             Next time, I'll use a travel agent!
+
+
+    Numbered list of all the factors that caused the customer to be unhappy:
 
 
     Numbered list of all the factors that caused the customer to be unhappy:
