@@ -28,8 +28,8 @@ Before you begin, ensure you have the following:
 
      
 ## Contoh Hasil
- ```bash
 python demo_wml_api.py
+ ```bash
  ---------------------------------------------------------------------------
 Question/request: Write a paragraph about the capital of France.
 Answer: The capital of France is Paris, a city of culture and politics. It is the seat of the French Government and of the French Parliament, and the country's largest city, with an area of 814 km2 . The city is located on the banks of the Seine, the administrative centre of the Île-de-France region.
