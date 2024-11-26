@@ -9,11 +9,16 @@
 <img src="https://img.shields.io/badge/License-MIT-yellowgreen?style=for-the-badge&logo=opensource&logoColor=white">
 </div>
 
+## 🔥 Overview
+
+Welcome to the **Integrate LLM with IBM Cloud** project! This project demonstrates how to integrate and invoke **Large Language Models (LLMs)** hosted on **IBM Watsonx.ai** using Python 🐍. You'll learn how to leverage IBM's powerful machine learning services to generate text, answer questions, and process customer complaints with ease.
+
+
 ## 🚀 Requirements
 Before you begin, ensure you have the following:
-*Python 3.10*
-*Anaconda* (for environment management)
-*IBM Cloud Account* (for Watson API access)
+- **Python 3.10**
+- **Anaconda** (for environment management)
+- **IBM Cloud Account** (for Watson API access)
   requirements.txt :
    - load_dotenv==0.1.0
    - ibm_watson_machine_learning==1.0.345
