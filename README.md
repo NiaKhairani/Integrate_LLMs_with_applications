@@ -13,13 +13,10 @@
    - `ibm-cloud-sdk-core==3.16.7`
    - `streamlit==1.31.0`
    - `python-dotenv==1.0.0`
-
-## 📝Contoh Hasil
-   python demo_wml_api.py
-   ---------------------------------------------------------------------------
+Contoh Hasil
+   python demo_wml_api.py---------------------------------------------------------------------------
 Question/request: Write a paragraph about the capital of France.
-Answer: The capital of France is Paris, a city of culture and politics. It is the seat of the French Government and of the French Parliament, and the country's largest city, with an area of 814 km2 . The city is located on the banks of the Seine, the administrative centre of the Île-de-France region.
----------------------------------------------------------------------------
+Answer: The capital of France is Paris, a city of culture and politics. It is the seat of the French Government and of the French Parliament, and the country's largest city, with an area of 814 km2 . The city is located on the banks of the Seine, the administrative centre of the Île-de-France region.---------------------------------------------------------------------------
 C:\Users\hp\AppData\Local\Programs\Python\Python311\Lib\site-packages\ibm_watson_machine_learning\foundation_models\utils\utils.py:101: LifecycleWarning: Model 'meta-llama/llama-2-13b-chat' is in deprecated state from 2024-08-26 until None. IDs of alternative models: None. Further details: https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/fm-model-lifecycle.html?context=wx&audience=wdp
   warnings.warn(default_warning_template.format(
 ---------------------------------------------------------------------------
@@ -37,12 +34,7 @@ Prompt:
 
     Numbered list of all the factors that caused the customer to be unhappy:
 
-    
-List of complaints: 1. Slow website
+    List of complaints: 1. Slow website
     2. Confusing times and prices
-    3. Lack of understanding of the seat map
----------------------------------------------------------------------------
---------------------------Invocation with REST-------------------------------------------
-Question/request: Write a paragraph about the capital of France.
-Answer: Paris (; ; ) is the capital and largest city of France. Paris is located on the left bank of the Seine and covers an area of . It is considered the world's most populous commune (city) with an estimated population of 2,4 million.
+    3. Lack of understanding of the seat map-----------------------------------------------------------------------------------------------------Invocation with REST-------------------------------------------Question/request: Write a paragraph about the capital of France.Answer: Paris (; ; ) is the capital and largest city of France. Paris is located on the left bank of the Seine and covers an area of . It is considered the world's most populous commune (city) with an estimated population of 2,4 million.
 ---------------------------------------------------------------------------
